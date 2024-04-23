@@ -2,8 +2,8 @@
 <h3 align="center">I'm seeking Software Engineer Internship Opportunities</h3>
 
 - 🎓 I’m currently studying my master degree at **Oregon State University**
-- 📄 Experience : **Software QA Engineer, Backend Engineer**
-- 💬 Contact me **harveytuan23@gmail.com**
+- 📄 Experience at **Software QA Engineer, Backend Engineer**
+- 💬 Contact me by **harveytuan23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
