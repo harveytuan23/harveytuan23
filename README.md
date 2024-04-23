@@ -5,6 +5,7 @@
 
 - 🎓 I’m currently studying my Computer Science master degree at **Oregon State University**
 - 📄 Experience at **Software QA Engineer, Backend Engineer**
+- 📚 I'm on track with learning more about Parallel Programming and Computer Architecture.
 - 💬 Contact me by **harveytuan23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
