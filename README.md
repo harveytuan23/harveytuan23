@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harvey</h1>
 <h3 align="center">I'm seeking Software Engineer Internship Opportunities</h3>
 
-- 🎓 I’m currently studying my master degree at **Oregon State University**
+- 🎓 I’m currently studying my Computer Science master degree at **Oregon State University**
 - 📄 Experience at **Software QA Engineer, Backend Engineer**
 - 💬 Contact me by **harveytuan23@gmail.com**
 
