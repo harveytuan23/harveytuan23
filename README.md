@@ -8,8 +8,7 @@
 - 🎓 CS Master's student @ **Oregon State University**
 - 🧪 Past experience as **Software QA Engineer** & **Backend Developer**
 - 🔍 Passionate about building scalable systems, automating workflows, and exploring AI tools
-- 💡 Currently deep-diving into **Parallel Programming** and **Computer Architecture**
-- 📫 Reach me at **harveytuan23@gmail.com**
+- 📫 Reach me at **harveytuan26@gmail.com**
 
 ---
 
