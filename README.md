@@ -36,7 +36,7 @@ RESTful API Design, Full-stack Web Dev, Test Automation, Webhook Integration, AI
 
 | Project | Summary | Tech | Links |
 |--------|---------|------|--------|
-| 🧠 **AI Travel Planner** | Full-stack web app generating smart travel itineraries with real-time map updates and Groq AI. Drag-and-drop UI + authentication | Node.js, React, AWS, Google Maps, Groq API | [Demo](#) / [Code](#) |
+| 🧠 **AI Travel Planner** | Full-stack web app generating smart travel itineraries with real-time map updates and Groq AI. Drag-and-drop UI + authentication | Node.js, React, AWS, Google Maps, Groq API | [Code](#) |
 | 🤖 **AICodeWatcher** | AI-powered code review system that auto-comments on GitHub PRs via webhook & GitHub API integration | FastAPI, React, Docker, ngrok | [Repo](#) |
 | 🔍 **Shopee QA Automation** | Designed automation suites for web/mobile. Built API tests that replaced 90% UI testing and cut regression time by 50% | Python, Selenium, Appium | *Internal* |
 | 💽 **External Storage DB System** | Engineered data structures to handle variable-length records efficiently under memory constraints | C/C++, Algorithms, File I/O | [Repo](#) |
