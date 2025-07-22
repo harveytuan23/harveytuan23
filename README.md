@@ -37,7 +37,7 @@ RESTful API Design, Full-stack Web Dev, Test Automation, Webhook Integration, AI
 | Project | Summary | Tech | Links |
 |--------|---------|------|--------|
 | 🧠 **AI Travel Planner** | Full-stack web app generating smart travel itineraries with real-time map updates and Groq AI. Drag-and-drop UI + authentication | Node.js, React, AWS, Google Maps, Groq API | [Repo](https://github.com/harveytuan23/AI-Travel-Planner) |
-| 🤖 **AICodeWatcher** | AI-powered code review system that auto-comments on GitHub PRs via webhook & GitHub API integration | FastAPI, React, Docker, ngrok | [Repo](https://github.com/harveytuan23/AI-Code-Watcher) |
+| 🤖 **AI Code Watcher** | AI-powered code review system that auto-comments on GitHub PRs via webhook & GitHub API integration | FastAPI, React, Docker, ngrok | [Repo](https://github.com/harveytuan23/AI-Code-Watcher) |
 | 🎂 **Birthday Memory Game** | 3D Unity game that lets players collect memories and unlock a love story | Unity, C#, NavMesh, TextMeshPro | [Repo](https://github.com/harveytuan23/3D-Adventure-Game) |
 
 > 🌟 More projects in progress — feel free to check out my repos!
